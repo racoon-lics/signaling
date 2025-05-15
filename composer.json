@@ -1,7 +1,7 @@
 {
   "name": "quasarstream/signaling",
   "type": "library",
-  "description": "A PHP implementation of Datagram Transport Layer Security (Signaling), designed for secure communication over UDP, especially in real-time communication protocols such as WebRTC and SRTP.",
+  "description": "A PHP library for managing signaling mechanisms in WebRTC. This package supports signaling over WebSocket, TCP, UDP, and UNIX sockets.",
   "keywords": [
     "rtp",
     "signaling"
