@@ -26,7 +26,7 @@
     "php": "^8.4",
     "ext-protobuf": "*",
     "ext-ffi": "*",
-    "cboden/ratchet": "dev-master",
+    "cboden/ratchet": "^0.4.4",
     "google/protobuf": "^4.13",
     "react/datagram": "^1.10",
     "react/socket": "^1.16",
